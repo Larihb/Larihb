@@ -1,9 +1,9 @@
 ## Hi, I'm Larissa! 
 
 - 🔭 I’m currently working on **enhance my skills in machine learning.**
-- 🌱 I’m currently learning **advanced SQL techniques** and **Python programming**, with a focus on applying them to machine learning.**
+- 🌱 I’m currently learning **advanced SQL techniques** and **Python programming**, with a focus on applying them to machine learning.
 - 😄 Pronouns: **She/Her**
-- 💻 Studying **Infromation Systems** at the Univervity Unisinos, Brazil.
+- 💻 Studying **Information Systems** at the University Unisinos, Brazil.
 
 ##  Languages and Tools
 
